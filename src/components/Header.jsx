@@ -20,7 +20,7 @@ export default function Header() {
       </nav>
       <div className="w-10 h-10 bg-gray-300 rounded-full overflow-hidden">
         <img
-          src="../public/pexels-olly-972804.jpg"
+          src="./pexels-olly-972804.jpg"
           alt="Profile"
           className="w-full h-full object-cover"
         />
